@@ -21,8 +21,6 @@ else:
     print("Wrong Email")
 ```
 
----
-
 ### Explanation:
 
 1. **`re` module**: Python's regular expression module is imported to handle pattern matching.
